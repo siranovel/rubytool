@@ -7,11 +7,11 @@ c言語からrubyのライブラリを使用したツール集です。
 * rbmath  
   rubyのMath情報を表示するプログラムです
   表示項目
- - PI
- - E
- - 平方根
-  ２、３、５、７  
-* rbproc
+  - PI
+  - E
+  - 平方根
+    ２、３、５、７  
+* rbproc  
   rubyのProcess情報を表示
   表示項目
   - pid、ppid
