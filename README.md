@@ -1,16 +1,23 @@
 rubytool
 ========
-c言語からrubyのライブラリを呼び出すツール集です
+c言語からrubyのライブラリを使用したツール集です。
 
 ## Description ##
 ### ツールの種類 ###
 * rbmath  
-  rubyのMath情報を表示するプログラムです  
+  rubyのMath情報を表示するプログラムです
   表示項目
-  - PI
-  - E
-  - 平方根  
-    ２、３、５、７
+ - PI
+ - E
+ - 平方根
+  ２、３、５、７  
+* rbproc
+  rubyのProcess情報を表示
+  表示項目
+  - pid、ppid
+  - uid、gid、euid、egid
+  - groups
+  - maxgroups
 
 ## Demo ##
 
@@ -30,4 +37,4 @@ VineLinux ver 6.5に付属しているrubyに依存
 
 ## Licence ##
 
-
+## Author ##
