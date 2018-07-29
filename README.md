@@ -5,7 +5,7 @@ c言語からrubyのライブラリを使用したツール集です。
 ## Description ##
 ### ツールの種類 ###
 * rbmath  
-  rubyのMath情報を表示するプログラムです
+  rubyのMath情報を表示するプログラムです  
   表示項目
   - PI
   - E
