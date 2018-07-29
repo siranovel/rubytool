@@ -18,6 +18,14 @@ c言語からrubyのライブラリを使用したツール集です。
   - uid、gid、euid、egid
   - groups
   - maxgroups
+* rbconst  
+  rubyの定数情報を表示
+  表示項目
+  - RUBY_VERSION
+  - RUBY_PLATFORM
+  - RUBY_COPYRIGHT
+  - $:
+  - $LOADED_FEATURES
 
 ## Demo ##
 
