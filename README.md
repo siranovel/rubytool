@@ -12,14 +12,14 @@ c言語からrubyのライブラリを使用したツール集です。
   - 平方根
     ２、３、５、７  
 * rbproc  
-  rubyのProcess情報を表示
+  rubyのProcess情報を表示  
   表示項目
   - pid、ppid
   - uid、gid、euid、egid
   - groups
   - maxgroups
 * rbconst  
-  rubyの定数情報を表示
+  rubyの定数情報を表示  
   表示項目
   - RUBY_VERSION
   - RUBY_PLATFORM
