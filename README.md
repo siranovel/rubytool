@@ -5,15 +5,15 @@ c言語からrubyのライブラリを使用したツール集です。
 ## Description ##
 ### ツールの種類 ###
 * rbmath  
-  rubyのMath情報を表示するプログラムです  
-  表示項目
+  rubyのMath情報を表示するプログラムです
+  表示項目  
   - PI
   - E
   - 平方根
     ２、３、５、７  
 * rbproc  
-  rubyのProcess情報を表示  
-  表示項目
+  rubyのProcess情報を表示
+  表示項目  
   - pid、ppid
   - uid、gid、euid、egid
   - groups
@@ -35,6 +35,12 @@ c言語からrubyのライブラリを使用したツール集です。
 VineLinux ver 6.5に付属しているrubyに依存
 
 ## Usage ##
+* rbmath  
+  $ rbmath  
+* rbproc  
+  $ rbproc  
+* rbconst  
+  $ rbconst  
 
 ## install ##
     git clone https://github.com/siranovel/rubytool.git  
