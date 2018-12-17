@@ -3,29 +3,10 @@ rubytool
 c言語からrubyのライブラリを使用したツール集です。
 
 ## Description ##
-### ツールの種類 ###
-* rbmath  
-  rubyのMath情報を表示するプログラムです
-  表示項目  
-  - PI
-  - E
-  - 平方根
-    ２、３、５、７  
-* rbproc  
-  rubyのProcess情報を表示
-  表示項目  
-  - pid、ppid
-  - uid、gid、euid、egid
-  - groups
-  - maxgroups
-* rbconst  
-  rubyの定数情報を表示  
-  表示項目
-  - RUBY_VERSION
-  - RUBY_PLATFORM
-  - RUBY_COPYRIGHT
-  - $:
-  - $LOADED_FEATURES
+![ucPythonTool](images/ucRubyTool.jpg)
+
+詳細は、
+https://github.com/siranovel/rubytool/wiki
 
 ## Demo ##
 
