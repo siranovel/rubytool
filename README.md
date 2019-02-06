@@ -22,7 +22,9 @@ VineLinux ver 6.5に付属しているrubyに依存
   $ rbproc  
 * rbconst  
   $ rbconst  
-
+* rbconfig  
+  $ rbconfig
+  
 ## install ##
     git clone https://github.com/siranovel/rubytool.git  
     cd rubytool  
