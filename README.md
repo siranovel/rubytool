@@ -1,11 +1,11 @@
 rubytool
 ========
-cè¨€èªã‹ã‚‰rubyã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚’ä½¿ç”¨ã—ãŸãƒ„ãƒ¼ãƒ«é›†ã§ã™ã€‚
+cŒ¾Œê‚©‚çruby‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ğg—p‚µ‚½ƒc[ƒ‹W‚Å‚·B
 
 ## Description ##
 ![ucPythonTool](images/ucRubyTool.jpg)
 
-è©³ç´°ã¯ã€
+Ú×‚ÍA
 https://github.com/siranovel/rubytool/wiki
 
 ## Demo ##
@@ -13,7 +13,7 @@ https://github.com/siranovel/rubytool/wiki
 ## VS. ##
 
 ## Requirement ##
-VineLinux ver 6.5ã«ä»˜å±ã—ã¦ã„ã‚‹rubyã«ä¾å­˜
+VineLinux ver 6.5‚É•t‘®‚µ‚Ä‚¢‚éruby‚ÉˆË‘¶
 
 ## Usage ##
 * rbmath  
@@ -28,10 +28,15 @@ VineLinux ver 6.5ã«ä»˜å±ã—ã¦ã„ã‚‹rubyã«ä¾å­˜
 ## install ##
     git clone https://github.com/siranovel/rubytool.git  
     cd rubytool  
-    rpm -ivh <rpmãƒ•ã‚¡ã‚¤ãƒ«å>  
+    rpm -ivh <rpmƒtƒ@ƒCƒ‹–¼>  
 
 ## Contribution ##
 
 ## Licence ##
 
+[MIT](LICENSE)
+
+
 ## Author ##
+
+[siranovel](https://github.com/siranovel)
