@@ -6,7 +6,7 @@ c言語からrubyのライブラリを使用したツール集です。
 ![ucPythonTool](images/ucRubyTool.jpg)
 
 詳細は、
-https://github.com/siranovel/rubytool/wiki
+https://siranovel.github.io/mydocs/rubytool  
 
 ## Demo ##
 
@@ -16,14 +16,6 @@ https://github.com/siranovel/rubytool/wiki
 VineLinux ver 6.5に付属しているrubyに依存
 
 ## Usage ##
-* rbmath  
-  $ rbmath  
-* rbproc  
-  $ rbproc  
-* rbconst  
-  $ rbconst  
-* rbconfig  
-  $ rbconfig
   
 ## install ##
     git clone https://github.com/siranovel/rubytool.git  
