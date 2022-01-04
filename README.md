@@ -3,7 +3,7 @@ rubytool
 c言語からrubyのライブラリを使用したツール集です。
 
 ## Description ##
-![ucPythonTool](images/ucRubyTool.jpg)
+![ruby tool](images/ucRubyTool.jpg)
 
 詳細は、
 https://siranovel.github.io/mydocs/rubytool  
